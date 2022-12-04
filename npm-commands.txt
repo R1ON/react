@@ -1,0 +1,14 @@
+npm init
+npm install / npm i
+npm install PACKAGE
+npm install PACKAGE@1.0.0
+npm install PACKAGE@1.0.0 PACKAGE_2
+npm run SCRIPT / npm start
+npm uninstall / npm un
+
+npm install -g  -> npx
+
+npm install PACKAGE -D
+npm install PACKAGE --save-dev 
+
+npm install PACKAGE -E
